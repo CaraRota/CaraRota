@@ -2,11 +2,9 @@
 ![GitHub Banner](https://media.licdn.com/dms/image/D4D16AQHNW2X7VEPE1Q/profile-displaybackgroundimage-shrink_350_1400/0/1685626253922?e=1695254400&v=beta&t=fUUIWpmHjfaklds9kPr5l_cOfuzLvlVZXLpEJn4cBCY)
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Sebastian Camia</b></h1>
-<h2 align="center"><b>Passion for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</b></h2>
-
-<h4 align="center"><b>>> Frontend React Developer <<</b></h4>
+<h2 align="center"><b>Frontend React Developer</b></h2>
 <h4 align="center"><b>HTML5, CSS3, JavaScript, Bootstrap 5, SASS, ReactJS</b></h4>
-<h5 align="center">CURRENTLY ON THE ROAD TO FULLSTACK DEV AT CODERHOUSE.COM</h5>
+<h5 align="center"><b>CURRENTLY ON THE ROAD TO FULLSTACK DEV AT CODERHOUSE.COM</b></h5>
 
 ## 🙋‍♂️ About Me
 <!--
