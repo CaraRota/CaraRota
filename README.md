@@ -9,9 +9,9 @@
 <h5 align="center">CURRENTLY ON THE ROAD TO FULLSTACK DEV AT CODERHOUSE.COM</h5>
 
 ## 🙋‍♂️ About Me
-
+<!--
 <a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
-
+-->
 <br>
 
 - 🥋 Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things!
