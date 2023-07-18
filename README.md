@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Sebastian Camia</b></h1>
 <h2 align="center"><b>Frontend React Developer</b></h2>
-<h4 align="center"><b>HTML5, CSS3, JavaScript, Bootstrap 5, SASS, ReactJS</b></h4>
+<h4 align="center"><b>HTML5 | CSS3 | JavaScript | ReactJS | Bootstrap 5 | SASS</b></h4>
 <h5 align="center"><b>CURRENTLY ON THE ROAD TO FULLSTACK DEV AT CODERHOUSE.COM</b></h5>
 
 ## 🙋‍♂️ About Me
