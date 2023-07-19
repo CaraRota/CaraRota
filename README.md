@@ -7,9 +7,11 @@
 <h5 align="center"><b>CURRENTLY ON THE ROAD TO FULLSTACK DEV AT CODERHOUSE.COM</b></h5>
 
 ## 🙋‍♂️ About Me
-<!--
-<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
--->
+
+  <a href="https://ouidev.netlify.app/" target="_blank" style="display: flex; align-items: center;">
+    <img align="right" src="https://ouidev.netlify.app/img/main2.png" alt="Sebastian Camia Profile pic in GitHub" title="Check out my Portfolio here!" width="450" height="350" />
+  </a>
+  
 <br>
 
 - 🥋 Problem solving enthusiast, obsessed with automation and detail-oriented.
