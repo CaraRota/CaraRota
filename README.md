@@ -8,10 +8,10 @@
 
 ## 🙋‍♂️ About Me
 
-  <a href="https://ouidev.netlify.app/" target="_blank" style="display: flex; align-items: center;">
-    <img align="right" src="https://ouidev.netlify.app/img/main2.png" alt="Sebastian Camia Profile pic in GitHub" title="Check out my Portfolio here!" width="450" height="350" />
+  <a href="https://ouidev.netlify.app/" target="_blank">
+    <img align="right" src="https://ouidev.netlify.app/img/main2.png" alt="Sebastian Camia Profile pic in GitHub" title="Check out my Portfolio here!" width=40% height=auto />
   </a>
-  
+
 <br>
 
 - 🥋 Problem solving enthusiast, obsessed with automation and detail-oriented.
