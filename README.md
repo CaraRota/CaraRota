@@ -12,14 +12,15 @@
 -->
 <br>
 
-- 🥋 Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things!
-- 👨‍💻 Love to learn new technologies
-- 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
+- 🥋 Problem solving enthusiast, obsessed with automation and detail-oriented.
+- 👨‍💻 I'm always ready to learn new things!
+- 👁‍🗨 What's unique about me → Ability to quickly learn and master a new skill in order to implement it and solve realtime problems.
 - 📘 I’m Currently on the road to Fullstack Dev **(𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤)**.
-- 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/CaraRota/ "GitHub Profile").
+- 🔠 Languages: 🇪🇸 Spanish (Native), 🇬🇧 English (C2 - Proficient), 🇵🇹 Portuguese (A2 - Beginner)
+- 🏴 Dual citizenship: 🇦🇷 Argentina - 🇮🇹 Italy
 - ⚡ My favs things to watch/do **Videogames, Chess, Formula 1 and Soccer**.
-- 📫 How to reach me **logicalbrainstudio@gmail.com**.
+- 👨🏻‍💻 Most of my projects are available on [**My Github Profile**](https://github.com/CaraRota/ "GitHub Profile").
+- 📫 Reach out to me **logicalbrainstudio@gmail.com**.
 - 🔗 Connect with me on [**Linkedin**](https://www.linkedin.com/in/sebastian-emanuel-camia-trefs/ "LinkedIn Profile").
 - 🔗 Visit my [**Portfolio**](https://ouidev.netlify.app/ "Personal Portfolio").
 - 🔗 Send me a [**Telegram**](https://t.me/CaraRota07 "Message me on Telegram").
