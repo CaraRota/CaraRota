@@ -16,7 +16,7 @@
 - 🥋 Problem solving enthusiast, obsessed with automation and detail-oriented.
 - 👨‍💻 I'm always ready to learn new things!
 - 👁‍🗨 What's unique about me → Ability to quickly learn and master a new skill in order to implement it and solve realtime problems.
-- 📘 I’m Currently on the road to Fullstack Dev **(𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤)**.
+- 📘 Fullstack Dev **(𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤)**.
 - 🔠 Languages: 🇪🇸 Spanish (Native), 🇬🇧 English (C2 - Proficient), 🇵🇹 Portuguese (A2 - Beginner)
 - 🏴 Dual citizenship: 🇦🇷 Argentina - 🇮🇹 Italy
 - ⚡ My favs things to watch/do **Videogames, Chess, Formula 1 and Soccer**.
