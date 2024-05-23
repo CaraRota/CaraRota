@@ -124,8 +124,3 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alkaison "@Alkaison")
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/536816649425125389 "@Alkaison")
 -->
-<div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
-
-</div>
