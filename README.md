@@ -1,6 +1,4 @@
 
-![GitHub Banner](https://media.licdn.com/dms/image/D4D16AQHNW2X7VEPE1Q/profile-displaybackgroundimage-shrink_350_1400/0/1685626253922?e=1695254400&v=beta&t=fUUIWpmHjfaklds9kPr5l_cOfuzLvlVZXLpEJn4cBCY)
-
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Sebastian Camia</b></h1>
 <h2 align="center"><b>Fullstack Developer</b></h2>
 <h4 align="center"><b>HTML5 | CSS3 | JavaScript | ReactJS | NodeJS | WordPress</b></h4>
