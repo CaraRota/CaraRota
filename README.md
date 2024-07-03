@@ -1,4 +1,5 @@
 
+<!--
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Sebastian Camia</b></h1>
 <h2 align="center"><b>Fullstack Developer</b></h2>
 <h4 align="center"><b>HTML5 | CSS3 | JavaScript | ReactJS | NodeJS | WordPress</b></h4>
@@ -107,7 +108,7 @@
   <a href="https://github.com/CaraRota/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=CaraRota&theme=tokyo-night&radius=16">
   </a>
-
+-->
 <!--
 ## ⚙️ Things I work with:
 
