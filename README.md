@@ -46,7 +46,7 @@
 | [**🔗 Phonebook Management System**](https://github.com/Alkaison/Phonebook-Management-System) | C |
 | [**🔗 Library Management System**](https://github.com/Alkaison/Library-Management-System) | C |
 | [**🔗 Number System Converter**](https://github.com/Alkaison/Number-System-Converter) | C |
--->
+
 <br>
 
 ## 🚀 Tech Stack:
@@ -108,8 +108,8 @@
   <a href="https://github.com/CaraRota/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=CaraRota&theme=tokyo-night&radius=16">
   </a>
--->
-<!--
+
+
 ## ⚙️ Things I work with:
 
 - **OS**: Windows 11.
